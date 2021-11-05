@@ -4,6 +4,6 @@
 
 ### Languages and Tools:
 
-!(https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript?style=for-the-badge&logo=JavaScript)
 
 ### Follow Me:
