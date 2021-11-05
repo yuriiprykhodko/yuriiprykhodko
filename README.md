@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Yuriy
+### Hi there 👋, my name is Yuriy.
 
-### I am FrontEnd developer
+### I am FrontEnd developer.
 
 ### Languages and Tools:
 
