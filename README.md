@@ -14,7 +14,17 @@
 <img align="left" alt="Webpack" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" /> 
 <img align="left" alt="GitHub"width="80px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img align="left" alt="Git" width="25px" style={margin-top: 20px;} src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Figma" width="60px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+ <img align="left" alt="html5"width="25px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
+ <img align="left" 
+ alt="css3"width="25px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
 
 ### -
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriyprihodko158&show_icons=true&theme=vision-friendly-dark)
+![yuriyprihodko158 GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriyprihodko158&show_icons=true&theme=vision-friendly-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriyprihodko158&layout=compact)](https://github.com/Dovzhenko-olga/github-readme-stats)
+
+[![Yuriy Prihodko telegram](https://img.shields.io/badge/Telegram-%40YuriyPrihodko-red?style=plastic&logo=telegram&link=https://t.me/YuriyPrihodko)](https://t.me/YuriyPrihodko)
+[![uraprihodko3@gmail.com e-mail](https://img.shields.io/badge/Gmail-YuriyPrihodko-green?style=plastic&logo=gmail&link=mailto:uraprihodko3@gmail.com)](uraprihodko3@gmail.com)
+[![YuriyPrihodko Linkedin](https://img.shields.io/badge/Linkedin-YuriyPrihodko-blue?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/yuriy-prihodko/)](https://www.linkedin.com/in/yuriy-prihodko/)
