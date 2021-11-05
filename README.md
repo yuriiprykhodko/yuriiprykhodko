@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-About me
+I am FrontEnd developer
 
 Languages and Tools
 
