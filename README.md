@@ -15,8 +15,4 @@
 <img align="left" alt="GitHub"width="25px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img align="left" alt="Git" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-### Follow Me:
-
-I have skills using JavaScript and Reactto build apps and websites. I would liketo reach a team of professionals,improve and learn new things.
-
 ### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriyprihodko158&show_icons=true&theme=vision-friendly-dark)
