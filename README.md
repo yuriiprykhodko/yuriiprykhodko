@@ -25,8 +25,8 @@
 
 ![yuriyprihodko158 GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriyprihodko158&show_icons=true&theme=vision-friendly-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriyprihodko158&layout=compact)](https://github.com/Dovzhenko-olga/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriyprihodko158&layout=compact)](https://github.com/yuriyprihodko158/github-readme-stats)
 
-[![Yuriy Prihodko telegram](https://img.shields.io/badge/Telegram-%40YuriyPrihodko-red?style=plastic&logo=telegram&link=https://t.me/YuriyPrihodko)](https://t.me/YuriyPrihodko)
+[![YuriyPrihodko telegram](https://img.shields.io/badge/Telegram-%40YuriyPrihodko-red?style=plastic&logo=telegram&link=https://t.me/YuriyPrihodko)](https://t.me/YuriyPrihodko)
 [![uraprihodko3@gmail.com e-mail](https://img.shields.io/badge/Gmail-YuriyPrihodko-green?style=plastic&logo=gmail&link=mailto:uraprihodko3@gmail.com)](uraprihodko3@gmail.com)
 [![YuriyPrihodko Linkedin](https://img.shields.io/badge/Linkedin-YuriyPrihodko-blue?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/yuriy-prihodko/)](https://www.linkedin.com/in/yuriy-prihodko/)
