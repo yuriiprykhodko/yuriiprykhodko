@@ -15,11 +15,11 @@
 <img align="left" alt="GitHub"width="80px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img align="left" alt="Git" width="25px" style={margin-top: 20px;} src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br>
+</br>
 <img align="left" alt="Figma" width="60px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
  <img align="left" alt="html5"width="25px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
  <img align="left" 
  alt="css3"width="25px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
-</br>
 
 ### -
 
