@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Yuriy.
+### Hi there 👋, my name is Yurii.
 
 ### I am FrontEnd developer.
 
@@ -25,6 +25,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriyprihodko158&layout=compact)](https://github.com/yuriyprihodko158/github-readme-stats)
 
-[![YuriyPrihodko telegram](https://img.shields.io/badge/Telegram-%40YuriyPrihodko-red?style=plastic&logo=telegram&link=https://t.me/YuriyPrihodko)](https://t.me/YuriyPrihodko)
+[![YuriyPrihodko telegram](https://img.shields.io/badge/Telegram-%40YuriyPrihodko-red?style=plastic&logo=telegram&link=https://t.me/YuriyPrihodko)](https://t.me/YuriiPrykhodko)
 [![uraprihodko3@gmail.com e-mail](https://img.shields.io/badge/Gmail-YuriyPrihodko-green?style=plastic&logo=gmail&link=mailto:uraprihodko3@gmail.com)](uraprihodko3@gmail.com)
-[![YuriyPrihodko Linkedin](https://img.shields.io/badge/Linkedin-YuriyPrihodko-blue?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/yuriy-prihodko/)](https://www.linkedin.com/in/yuriy-prihodko/)
+[![YuriyPrihodko Linkedin](https://img.shields.io/badge/Linkedin-YuriyPrihodko-blue?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/yuriy-prihodko/)](https://www.linkedin.com/in/-yurii-prykhodko/)
