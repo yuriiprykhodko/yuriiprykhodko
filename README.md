@@ -21,10 +21,10 @@
 
 ### -
 
-![yuriyprihodko158 GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriyprihodko158&show_icons=true&theme=vision-friendly-dark)
+![yuriiprykhodko GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriiprykhodko&show_icons=true&theme=vision-friendly-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriyprihodko158&layout=compact)](https://github.com/yuriyprihodko158/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriiprykhodko&layout=compact)](https://github.com/yuriiprykhodko/github-readme-stats)
 
-[![YuriyPrihodko telegram](https://img.shields.io/badge/Telegram-%40YuriyPrihodko-red?style=plastic&logo=telegram&link=https://t.me/YuriyPrihodko)](https://t.me/YuriiPrykhodko)
-[![uraprihodko3@gmail.com e-mail](https://img.shields.io/badge/Gmail-YuriyPrihodko-green?style=plastic&logo=gmail&link=mailto:uraprihodko3@gmail.com)](uraprihodko3@gmail.com)
-[![YuriyPrihodko Linkedin](https://img.shields.io/badge/Linkedin-YuriyPrihodko-blue?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/yuriy-prihodko/)](https://www.linkedin.com/in/-yurii-prykhodko/)
+[![YuriiPrykhodko telegram](https://img.shields.io/badge/Telegram-%40YuriiPrykhodko-red?style=plastic&logo=telegram&link=https://t.me/YuriiPrykhodko)](https://t.me/YuriiPrykhodko)
+[![uraprihodko3@gmail.com e-mail](https://img.shields.io/badge/Gmail-YuriiPrykhodko-green?style=plastic&logo=gmail&link=mailto:uraprihodko3@gmail.com)](uraprihodko3@gmail.com)
+[![YuriiPrykhodko Linkedin](https://img.shields.io/badge/Linkedin-YuriiPrykhodko-blue?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/-yurii-prykhodko/)](https://www.linkedin.com/in/-yurii-prykhodko/)
